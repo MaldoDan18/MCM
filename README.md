@@ -66,7 +66,7 @@ int main() {
 	printf("     \n");
 	printf("El mínimo común multiplo es: %.0f\n",mcm);
 	return 0;
-]
+}
 ```
 //INDICACIONES//
 
