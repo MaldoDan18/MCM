@@ -1,5 +1,7 @@
 #MCM
-//Descripción del problema y la solucion//
+Equipo 3. Grupo 1CV4.
+
+//Descripción del problema y la solución//
 Programa diseñado para encontrar el Minimo Común Múltiplo de dos números enteros que proporciona el usuario.
 
 Nuestro problema: Obtener el minimo comun multiplo de dos numero enteros. 
@@ -50,7 +52,7 @@ int main() {
 	printf("     \n");
 	printf("El maximo común divisor es : %i\n",mcd);
 	printf("     \n");
-	/* Calcula el Minimo Común Multiplo utilizando la f�rmula mcm = (num1 * num2) / mcd  */
+	/* Calcula el Minimo Común Multiplo utilizando la fórmula mcm = (num1 * num2) / mcd  */
 	printf("2. Calcula el minimo común múltiplo (MCM):\n");
 	printf("     \n");
 	printf("El minimo común multiplo se obtiene al dividir la multiplicación de ambos numeros entre su maximo comun divisor\n");
