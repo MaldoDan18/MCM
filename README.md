@@ -59,7 +59,6 @@ int main() {
 	printf("     \n");
 	printf("Es decir. MCM = (número 1 * número 2) / Maximo común divirsor\n");
 	printf("MCM = (%i * %i) / Maximo común divirsor\n",numero1,numero2);
-
 	mcm = (numero1*numero2)/mcd;
 	printf("     \n");
 	printf("El mínimo común multiplo es: %.0f\n",mcm);
