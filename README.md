@@ -10,7 +10,6 @@ Solución: El programa realizara el calculo del Máximo común Divisor de los do
 
 //CODIGO FUENTE//
 ```
-/*Equipo 3. Daniela del Carmen Maldonado Bedolla */
 #include<stdio.h>
 
 int main() {
