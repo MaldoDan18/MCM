@@ -8,7 +8,7 @@ Nuestro problema: Obtener el minimo comun multiplo de dos numero enteros.
 El proceso de la solución: El programa realizara el calculo del Máximo común Divisor de los dos numero enteros ingresas. Despues, dividira la multiplicacion de esos dos numeros entre el MCD que se obtenga. El resultado será el Minimo Comun Multiplo que buscamos.
 
 //CODIGO FUENTE//
-'''
+```
 /*Equipo 3. Daniela del Carmen Maldonado Bedolla */
 #include<stdio.h>
 
@@ -54,7 +54,7 @@ int main() {
 	printf("     \n");
 	printf("El maximo común divisor es : %i\n",mcd);
 	printf("     \n");
-	/* Calcula el Minimo Común Multiplo utilizando la f�rmula mcm = (num1 * num2) / mcd  */
+	/* Calcula el Minimo Común Multiplo utilizando la fórmula mcm = (num1 * num2) / mcd  */
 	printf("2. Calcula el minimo común múltiplo (MCM):\n");
 	printf("     \n");
 	printf("El minimo común multiplo se obtiene al dividir la multiplicación de ambos numeros entre su maximo comun divisor\n");
@@ -66,8 +66,8 @@ int main() {
 	printf("     \n");
 	printf("El mínimo común multiplo es: %.0f\n",mcm);
 	return 0;
-
- '''
+]
+```
 //INDICACIONES//
 
 Para poder ejecutar el programa es necesario descargarlo y utilizar cualquier compilador de lenguaje C, como lo son Dev C++, Visual estudio Code, entro otros. Tambien pueden usarse compiladores en línea como Programiz.
