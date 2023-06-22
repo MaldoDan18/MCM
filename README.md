@@ -2,10 +2,11 @@
 Equipo 3. Grupo 1CV4.
 
 //Descripción del problema y la solución//
+
 Programa diseñado para encontrar el Minimo Común Múltiplo de dos números enteros que proporciona el usuario.
 
 Nuestro problema: Obtener el minimo comun multiplo de dos numero enteros. 
-El proceso de la solución: El programa realizara el calculo del Máximo común Divisor de los dos numero enteros ingresas. Despues, dividira la multiplicacion de esos dos numeros entre el MCD que se obtenga. El resultado será el Minimo Comun Multiplo que buscamos.
+Solución: El programa realizara el calculo del Máximo común Divisor de los dos numero enteros ingresas. Despues, dividira la multiplicacion de esos dos numeros entre el MCD que se obtenga. El resultado será el Minimo Comun Multiplo que buscamos.
 
 //CODIGO FUENTE//
 ```
